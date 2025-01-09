@@ -8,7 +8,7 @@ In academia, I studied transmembrane proteins in the context of structure and di
 
  - **Times ⏰**
     - I usually start between 9.30 and 10.00AM.
-    - I don't always finish at the same time but it's usually between 6:30 and 7PM.
+    - I don't always finish at the same time but it's usually around 7PM.
  - **Communication ✉️**
     -  Don't be alarmed if you get messages or emails from me outside of your work hours – I don't expect you to respond until you're back online.
     - I sometimes pop out for a coffee or a dog walk during the day. I'll do my best to flag this in slack. If you need me urgently, please call me ☎️
