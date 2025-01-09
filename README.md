@@ -1,9 +1,18 @@
-# James A. Baker, PhD
-
 I'm James. I use computers to explore data. 💻📊 He/Him
 
 My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
-I have found myself studying transmembrane proteins in the context of structure and disease, and then moving to more technology-focused roles.
+In academia, I studied transmembrane proteins in the context of structure and disease, and have moved to more technology-focused roles.
+
+
+## How I like to work 
+
+ - **Times ⏰**
+    - I usually start between 9.30 and 10.00AM.
+    - I don't always finish at the same time but it's usually between 6:30 and 7PM.
+ - **Communication ✉️**
+    -  Don't be alarmed if you get messages or emails from me outside of your work hours – I don't expect you to respond until you're back online.
+    - I sometimes pop out for a coffee or a dog walk during the day. I'll do my best to flag this in slack. If you need me urgently, please call me ☎️
+
 
 ## 👨‍💻 Work history
 
@@ -28,18 +37,3 @@ I have found myself studying transmembrane proteins in the context of structure 
 - SE Q&A posting history at [Biology Stack Exchange](https://biology.stackexchange.com/users/3553/james).
 
 <a href="https://biology.stackexchange.com/users/3553/james"><img src="https://biology.stackexchange.com/users/flair/3553.png" width="208" height="58" alt="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students" title="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students"></a>
-
----
-
-## Contact details
-
-If you have any sort of questions or comments, please feel free to get in touch.
-
-
-- ✉️ Email: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
-
-- 💻 GitHub: [JamesABaker](https://github.com/JamesABaker)
-
-## About
-
-This is part of my ongoing quest to make a personal website that is easily maintainable.
