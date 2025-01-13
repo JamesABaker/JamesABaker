@@ -6,6 +6,7 @@ In academia, I studied transmembrane proteins in the context of structure and di
 ## 💼 My work style
 
 -  ⏰ **Times**
+   - I work Monday to Thursday
    - I usually start between 9.30 and 10.00AM
    - I don't always finish at the same time but it's usually around 7pm
 - ✉️ **Communication**
