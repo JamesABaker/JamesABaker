@@ -21,11 +21,11 @@ In academia, I studied transmembrane proteins in the context of structure and di
 - 📈 **Modelling QA Lead** at the UK Health Security Agency (UKHSA)
 - 🏥 **Senior Health Analyst** at the Joint Biosecurity Centre, part of NHS test and trace
 - 🧪 **Postdoctoral Fellow** at the European Bioinformatics Institute (EMBL-EBI)
-- 🇹🇭 **Intern** in the Computational Chemistry Department at the Chulalongkorn University in Bangkok 
+- 🌏 **Intern** in the Computational Chemistry Department at the Chulalongkorn University in Bangkok 
 
 ## 🎓 Education
 
-- 🇸🇬 **PhD** at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute
+- 🌏 **PhD** at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute
 - **Masters** in Biochemistry at the University of Liverpool
 
 
