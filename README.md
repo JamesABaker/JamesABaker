@@ -16,6 +16,7 @@ In academia, I studied transmembrane proteins in the context of structure and di
 
 ## 👨‍💻 Work history
 
+- 🤖 **Lead MLOps Engineer** at the Ministry of Justice (MoJ)
 - ⚙️ **Lead Data Engineer** at the Ministry of Justice (MoJ)
 - 📊 **Data Science QA Lead** at the UK Health Security Agency (UKHSA) 
 - 📈 **Modelling QA Lead** at the UK Health Security Agency (UKHSA)
