@@ -1,7 +1,4 @@
-I'm James. I use computers to explore data. 💻📊 He/Him
-
-My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
-In academia, I studied transmembrane proteins in the context of structure and disease, and have moved to more technology-focused roles.
+I'm James. I use computers to explore and engineer data. 💻📊 He/Him
 
 ## 💼 My work style
 
@@ -22,12 +19,14 @@ In academia, I studied transmembrane proteins in the context of structure and di
 - 📈 **Modelling QA Lead** at the UK Health Security Agency (UKHSA)
 - 🏥 **Senior Health Analyst** at the Joint Biosecurity Centre, part of NHS test and trace
 - 🧪 **Postdoctoral Fellow** at the European Bioinformatics Institute (EMBL-EBI)
-- 🌏 **Intern** in the Computational Chemistry Department at the Chulalongkorn University in Bangkok 
+- 🇹🇭 **Intern** in the Computational Chemistry Department at the Chulalongkorn University in Bangkok
+- 📖 My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
+
 
 ## 🎓 Education
 
-- 🌏 **PhD** at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute
-- **Masters** in Biochemistry at the University of Liverpool
+- 🇸🇬 **PhD** at the University of Manchester and the Singapore A*STAR Bioinformatics Institute
+- 🇬🇧 **Masters** in Biochemistry at the University of Liverpool
 
 
 ## 🧪 Out of the lab
@@ -38,3 +37,11 @@ In academia, I studied transmembrane proteins in the context of structure and di
 - SE Q&A posting history at [Biology Stack Exchange](https://biology.stackexchange.com/users/3553/james).
 
 <a href="https://biology.stackexchange.com/users/3553/james"><img src="https://biology.stackexchange.com/users/flair/3553.png" width="208" height="58" alt="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students" title="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students"></a>
+
+## Contact
+
+If you have any sort of questions or comments, please feel free to get in touch.
+
+✉️ Email: james.a.baker@protonmail.com
+
+💻 LinkedIn: [James Baker](https://www.linkedin.com/in/james-alexander-baker-phd-57a325a6/)
