@@ -1,4 +1,4 @@
-I'm James. I use computers to explore and engineer data. 💻📊 He/Him
+I'm James. I use computers to explore and build data. 💻📊 He/Him
 
 ## 👨‍💻 Work history
 
